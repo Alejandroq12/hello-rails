@@ -1,15 +1,15 @@
-## Ruby Hello World
+## Ruby on Rails Hello World
 
 <a name="readme-top"></a>
 <div align="center">
     <img src="logo-julio.png" alt="main-logo" width="500"  height="auto" />
   <br/>
-  <h3><b>Ruby Hello World</b></h3>
+  <h3><b>Ruby on Rails Hello World</b></h3>
 </div>
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Ruby Hello World ](#-ruby-hello-world-)
+- [📖 Ruby on Rails Hello World ](#-ruby-on-rails-hello-world-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -29,7 +29,7 @@
   - [❓ FAQ ](#-faq-)
   - [📝 License ](#-license-)
 
-# 📖 Ruby Hello World <a name="about-project"></a>
+# 📖 Ruby on Rails Hello World <a name="about-project"></a>
 
 This project was created to practice setting up a Ruby on Rails project with PostgreSQL as the database, the creation and implementation of views, controllers, migrations, adding documentation, and using GitFlow. In addition, it also plan to provide foundational knowledge about the folder and file structure of Ruby on Rails. All of these elements are essential pieces of knowledge for becoming a great Ruby on Rails developer. Later on, I will be working on more complex and robust projects, but as they say, first things first.
 
